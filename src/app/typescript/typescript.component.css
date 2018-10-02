@@ -1,0 +1,12 @@
+.input-angular {
+    color: #3e3c3c;
+}
+.input-angular.ng-invalid.ng-dirty {
+    border: 2px crimson solid;
+    border-radius: 2px;
+}
+
+.input-angular.ng-valid{
+    border: 2px limegreen solid;
+    border-radius: 2px;
+}
